@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">One does not simply deploy Shelfmark</title>
+  <desc id="desc">An original fantasy meme illustration of a traveler facing a glowing mountain pass.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#374151"/>
+    </linearGradient>
+    <linearGradient id="portal" x2="0" y2="1">
+      <stop stop-color="#fbbf24" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#f97316" stop-opacity=".15"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+  <rect width="960" height="540" fill="url(#sky)"/>
+  <circle cx="780" cy="112" r="48" fill="#fde68a" opacity=".88"/>
+  <path d="M0 350 170 155l105 119 134-185 185 249 105-126 261 138v190H0Z" fill="#263244"/>
+  <path d="m290 338 119-249 150 249z" fill="#475569"/>
+  <path d="m341 232 68-143 87 143-57-30-33 34-30-30z" fill="#cbd5e1" opacity=".8"/>
+  <path d="M0 394 224 292l153 112 174-122 169 132 120-82 120 60v148H0Z" fill="#172033"/>
+  <path d="M365 408q45-111 91 0v72h-91z" fill="url(#portal)" filter="url(#glow)"/>
+  <path d="M379 480v-71q31-76 63 0v71" fill="none" stroke="#fbbf24" stroke-width="9" opacity=".9"/>
+  <path d="M0 478q220-74 406-12t554-5v79H0Z" fill="#0b1120"/>
+  <g fill="#080c15">
+    <path d="m238 472 36-89 38 89h-19l19 32h-76l19-32z"/>
+    <path d="M267 404q-30-20-15-43 22 8 25 36z"/>
+    <path d="M267 408q26-25 38-7-9 21-36 25z"/>
+  </g>
+  <text x="480" y="64" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800" text-anchor="middle" letter-spacing="1">ONE DOES NOT SIMPLY</text>
+  <text x="480" y="112" fill="#fde68a" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" text-anchor="middle" letter-spacing="3">DEPLOY SHELFMARK ON UMBREL</text>
+  <rect x="286" y="496" width="388" height="28" rx="14" fill="#111827" opacity=".88"/>
+  <text x="480" y="516" fill="#e5e7eb" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle">there are configs involved</text>
+</svg>
