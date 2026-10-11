@@ -7,10 +7,10 @@ description: >
   Het draait een ingebouwde browser om te navigeren langs eventuele Cloudflare-blokkades 
   en integreert naadloos met andere download- en media-applicaties.
 developer: "Calibrain"
-website: "https://github.com"
+website: "none"
 dependencies: []
-repo: "https://github.com"
-support: "https://github.com/issues"
+repo: "none"
+support: "none"
 port: 8084
 gallery:
   - "1.png"
