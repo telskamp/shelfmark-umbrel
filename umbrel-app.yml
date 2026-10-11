@@ -1,0 +1,19 @@
+id: "shelfmark"
+name: "Shelfmark"
+version: "1.0.0"
+tagline: "Een handige boekenzoeker en downloadmanager voor je e-books."
+description: >
+  Shelfmark is een geavanceerde tool voor het zoeken naar boeken en het beheren van downloads. 
+  Het draait een ingebouwde browser om te navigeren langs eventuele Cloudflare-blokkades 
+  en integreert naadloos met andere download- en media-applicaties.
+developer: "Calibrain"
+website: "https://github.com"
+dependencies: []
+repo: "https://github.com"
+support: "https://github.com/issues"
+port: 8084
+gallery:
+  - "1.png"
+  - "2.png"
+submitter: "sjaak"
+submission_date: "2026-10-11"
