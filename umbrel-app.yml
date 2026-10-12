@@ -1,11 +1,11 @@
 id: "shelfmark"
 name: "Shelfmark"
 version: "1.0.0"
-tagline: "Een handige boekenzoeker en downloadmanager voor je e-books."
+tagline: "A handy book search and download manager for your e-books."
 description: >
-  Shelfmark is een geavanceerde tool voor het zoeken naar boeken en het beheren van downloads. 
-  Het draait een ingebouwde browser om te navigeren langs eventuele Cloudflare-blokkades 
-  en integreert naadloos met andere download- en media-applicaties.
+  Shelfmark is an advanced tool for searching for books and managing downloads.
+  It includes a built-in browser to navigate potential Cloudflare blocks
+  and integrates seamlessly with other download and media applications.
 developer: "Calibrain"
 website: "none"
 dependencies: []

@@ -2,6 +2,8 @@
 
 This is a test build of Shelfmark for Umbrel.
 
+This build was vibecoded: assembled with AI prompts, human vibes, and a healthy respect for copy-paste.
+
 ![Original fantasy meme: One does not simply deploy Shelfmark](data/shelfmark-meme.svg)
 
 All credit goes to the [original Shelfmark app](https://github.com/calibrain/shelfmark) and its developers. They cooked; this repo just put the plate in an Umbrel-shaped box. 🍽️
