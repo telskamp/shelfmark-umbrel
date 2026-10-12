@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">Shelfmark</title>
+  <rect width="256" height="256" rx="56" fill="#253b52"/>
+  <path d="M58 54h103a38 38 0 0 1 38 38v112H96a38 38 0 0 1-38-38z" fill="#f6f0df"/>
+  <path d="M96 204a38 38 0 0 1 0-76h103" fill="none" stroke="#d4a75b" stroke-width="14"/>
+  <path d="M148 64h31v73l-15.5-12-15.5 12z" fill="#d76b48"/>
+  <path d="M79 91h51M79 111h51M108 153h68M108 174h68" fill="none" stroke="#718399" stroke-linecap="round" stroke-width="8"/>
+</svg>

@@ -1,0 +1,29 @@
+manifestVersion: 1.1
+id: telskamp-shelfmark
+category: files
+name: Shelfmark
+version: "v1.4.0"
+tagline: A handy book search and download manager for your e-books.
+icon: icon.svg
+description: >-
+  Shelfmark is an advanced tool for searching for books and managing downloads.
+  It includes a built-in browser to navigate potential Cloudflare blocks and
+  integrates with other download and media applications.
+developer: Calibrain
+website: "none"
+dependencies: []
+repo: https://github.com/calibrain/shelfmark
+support: "none"
+port: 8084
+gallery:
+  - https://raw.githubusercontent.com/Calibrain/shelfmark/93210960326f99d731b3f3f91722cf2ebebf1bfd/README_images/homescreen.png
+  - https://raw.githubusercontent.com/Calibrain/shelfmark/93210960326f99d731b3f3f91722cf2ebebf1bfd/README_images/search-results.png
+submitter: sjaak
+releaseNotes: >-
+  Initial community app store release, packaging Shelfmark v1.4.0.
+
+
+  See the upstream release notes at https://github.com/calibrain/shelfmark/releases/tag/v1.4.0.
+path: ""
+defaultUsername: ""
+defaultPassword: ""
